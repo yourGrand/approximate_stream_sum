@@ -1,9 +1,9 @@
 # Approximate Stream Sum
 
 A randomised streaming algorithm that efficiently approximates the sum of elements in a data stream using
-$$
+
 O(log(log(m)) + log(n))
-$$
+
 space complexity, where m is the stream length and n is the maximum value in the stream.
 
 ## Table of Contents
