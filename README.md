@@ -6,6 +6,8 @@ O(log(log(m)) + log(n))
 
 space complexity, where m is the stream length and n is the maximum value in the stream.
 
+Please refer to analysis.pdf for a more detailed explanation and proof of the algorithm.
+
 ## Table of Contents
 
 - [Installation](#installation)
